@@ -1,0 +1,41 @@
+body{
+  margin: 1px; /* margen */
+  padding: 1;
+  background: #E779D3 url("../imagenes/Bandera_eldria.png");
+	background-repeat: round;
+  color: #FFFFFF;
+}
+
+
+div.I_Link /* Vinculos internos */
+{
+	overflow:hidden;
+	height:55%; 
+	width:100%;
+	color: black;
+	background-color: #f45c5c;
+}
+div.Canon /* Canon */
+{
+	overflow-y: scroll;
+	height:45%; 
+	width:100%;
+	color: black;
+	background-color: pink;
+}
+div.Fanon /* Fandom */
+{
+    overflow-y:scroll;
+     height:45%;
+     width:100%;
+     color: black;
+background-color: #b4fff9;
+}
+div.Social /* Social */
+{
+	overflow-y:auto;
+	height:55%; 
+	width:100%;
+	color: black;
+	background-color: #971898;
+}
